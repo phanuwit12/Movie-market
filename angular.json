@@ -123,6 +123,10 @@
           }
         }
       }
-    }},
-  "defaultProject": "skuberg-movie"
+    }
+  },
+  "defaultProject": "skuberg-movie",
+  "cli": {
+    "analytics": false
+  }
 }
